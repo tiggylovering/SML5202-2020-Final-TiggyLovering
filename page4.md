@@ -4,8 +4,8 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="images.spain.png">
-        <img src="images/spain.png" alt="A spanish flad in red and yellow stripes" style="width:100%">
+      <a href="images/spain.jpg">
+        <img src="images/spain.jpg" alt="A spanish flad in red and yellow stripes" style="width:100%">
         <div class="caption">
           <p>The Spanish flag.</p>
         </div>
