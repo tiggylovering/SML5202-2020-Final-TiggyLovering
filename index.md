@@ -1,2 +1,2 @@
-<h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
+<h1>Welcome to Learn Spanish!</h1>
+<p>Here you can learn about Spanish Grammar, Vocabulary and Culture!</p>
