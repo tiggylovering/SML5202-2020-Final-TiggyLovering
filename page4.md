@@ -4,8 +4,8 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="https://github.com/tiggylovering/SML5202-2020-Final-TiggyLovering/blob/main/images/Spain.jpg>"
-        <img src="https://github.com/tiggylovering/SML5202-2020-Final-TiggyLovering/blob/main/images/Spain.jpg" alt="A spanish flag in red and yellow stripes" style="width:100%">
+      <a href="images/Spain.jpg>"
+        <img src="images/Spain.jpg" alt="A spanish flag in red and yellow stripes" style="width:100%">
         <div class="caption">
           <p>The Spanish flag.</p>
         </div>
